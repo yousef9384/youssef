@@ -1,0 +1,9 @@
+﻿  sfml.cpp
+D:\things\yousef\yousef\sfml.cpp(27,28): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\things\yousef\yousef\sfml.cpp(27,22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Generating code
+  1 of 141 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  yousef.vcxproj -> D:\things\yousef\x64\Release\yousef.exe
